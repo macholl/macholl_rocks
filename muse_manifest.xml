@@ -1,56 +1,60 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="false" exportTarget="other" domain="www.macholl.rocks" resolutions="1x" timestamp="1536617290527">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="false" exportTarget="other" domain="www.macholl.rocks" resolutions="1x" timestamp="1536621200313">
   <folder name="css">
     <file name="site_global.css" crc="4275521114"/>
-    <file name="master_master-main.css" crc="4216786996" ref="macholl.rockspl:index"/>
+    <file name="master_master-main.css" crc="399405097" ref="macholl.rockspl:index"/>
     <file name="nomq_preview_master_master-main.css" crc="427007898" ref="macholl.rockspl:index"/>
-    <file name="master_master-proejkt-pl.css" crc="79532618" ref="thinkthing--app-uxui---pl:eastcoast-boats--logo---pl:polish-space-agency--logo---pl:adrent--webpage---pl:konference--logo---website---pl:ika--webpage---pl:thinkthing--logo---branding---pl:overis--webpage---pl:cape--app-uxui---pl:travelplus--webpage---pl"/>
+    <file name="master_master-proejkt-pl.css" crc="4177643035" ref="thinkthing--app-uxui---pl:eastcoast-boats--logo---pl:polish-space-agency--logo---pl:adrent--webpage---pl:konference--logo---website---pl:ika--webpage---pl:thinkthing--logo---branding---pl:overis--webpage---pl:cape--app-uxui---pl:travelplus--webpage---pl"/>
     <file name="nomq_preview_master_master-proejkt-pl.css" crc="89446181" ref="thinkthing--app-uxui---pl:eastcoast-boats--logo---pl:polish-space-agency--logo---pl:adrent--webpage---pl:konference--logo---website---pl:ika--webpage---pl:thinkthing--logo---branding---pl:overis--webpage---pl:cape--app-uxui---pl:travelplus--webpage---pl"/>
-    <file name="master_master-proejkt-copy.css" crc="507814967" ref="polish-space-agency--logo:konference--logo---website:adrent--webpage:overis--webpage:ika--webpage:thinkthing--logo---branding:travelplus--webpage:cape--app-uxui:eastcoast-boats--logo:thinkthing--app-uxui"/>
+    <file name="master_master-proejkt-copy.css" crc="4206163190" ref="polish-space-agency--logo:konference--logo---website:adrent--webpage:overis--webpage:ika--webpage:thinkthing--logo---branding:travelplus--webpage:cape--app-uxui:eastcoast-boats--logo:thinkthing--app-uxui"/>
     <file name="nomq_preview_master_master-proejkt-copy.css" crc="5210237" ref="polish-space-agency--logo:konference--logo---website:adrent--webpage:overis--webpage:ika--webpage:thinkthing--logo---branding:travelplus--webpage:cape--app-uxui:eastcoast-boats--logo:thinkthing--app-uxui"/>
-    <file name="thinkthing--app-uxui---pl.css" crc="4014664336" ref="thinkthing--app-uxui---pl"/>
+    <file name="thinkthing--app-uxui---pl.css" crc="48872299" ref="thinkthing--app-uxui---pl"/>
     <file name="nomq_thinkthing--app-uxui---pl.css" crc="3797033313" ref="thinkthing--app-uxui---pl"/>
-    <file name="polish-space-agency--logo.css" crc="48641544" ref="polish-space-agency--logo"/>
+    <file name="polish-space-agency--logo.css" crc="3931171876" ref="polish-space-agency--logo"/>
     <file name="nomq_polish-space-agency--logo.css" crc="4183877387" ref="polish-space-agency--logo"/>
-    <file name="eastcoast-boats--logo---pl.css" crc="4176561193" ref="eastcoast-boats--logo---pl"/>
+    <file name="eastcoast-boats--logo---pl.css" crc="3800736000" ref="eastcoast-boats--logo---pl"/>
     <file name="nomq_eastcoast-boats--logo---pl.css" crc="60029422" ref="eastcoast-boats--logo---pl"/>
-    <file name="macholl_rockspl.css" crc="4262119607" ref="macholl.rockspl"/>
+    <file name="macholl_rockspl.css" crc="60394356" ref="macholl.rockspl"/>
     <file name="nomq_macholl_rockspl.css" crc="213272614" ref="macholl.rockspl"/>
-    <file name="konference--logo---website.css" crc="3964399303" ref="konference--logo---website"/>
+    <file name="konference--logo---website.css" crc="152800507" ref="konference--logo---website"/>
     <file name="nomq_konference--logo---website.css" crc="469076905" ref="konference--logo---website"/>
-    <file name="polish-space-agency--logo---pl.css" crc="498013994" ref="polish-space-agency--logo---pl"/>
+    <file name="polish-space-agency--logo---pl.css" crc="246860507" ref="polish-space-agency--logo---pl"/>
     <file name="nomq_polish-space-agency--logo---pl.css" crc="157231401" ref="polish-space-agency--logo---pl"/>
-    <file name="adrent--webpage.css" crc="4227717972" ref="adrent--webpage"/>
+    <file name="adrent--webpage.css" crc="4022221791" ref="adrent--webpage"/>
     <file name="nomq_adrent--webpage.css" crc="4012645840" ref="adrent--webpage"/>
-    <file name="adrent--webpage---pl.css" crc="22078617" ref="adrent--webpage---pl"/>
-    <file name="nomq_adrent--webpage---pl.css" crc="101121963" ref="adrent--webpage---pl"/>
-    <file name="overis--webpage.css" crc="403107548" ref="overis--webpage"/>
+    <file name="adrent--webpage---pl.css" crc="4021999766" ref="adrent--webpage---pl"/>
+    <file name="nomq_adrent--webpage---pl.css" crc="316007553" ref="adrent--webpage---pl"/>
+    <file name="overis--webpage.css" crc="101188473" ref="overis--webpage"/>
     <file name="nomq_overis--webpage.css" crc="54517972" ref="overis--webpage"/>
-    <file name="konference--logo---website---pl.css" crc="244440067" ref="konference--logo---website---pl"/>
+    <file name="konference--logo---website---pl.css" crc="186869813" ref="konference--logo---website---pl"/>
     <file name="nomq_konference--logo---website---pl.css" crc="111154202" ref="konference--logo---website---pl"/>
-    <file name="ika--webpage.css" crc="432083065" ref="ika--webpage"/>
+    <file name="ika--webpage.css" crc="3891385553" ref="ika--webpage"/>
     <file name="nomq_ika--webpage.css" crc="4139760285" ref="ika--webpage"/>
-    <file name="ika--webpage---pl.css" crc="4060736329" ref="ika--webpage---pl"/>
+    <file name="ika--webpage---pl.css" crc="122689221" ref="ika--webpage---pl"/>
     <file name="nomq_ika--webpage---pl.css" crc="147933363" ref="ika--webpage---pl"/>
-    <file name="thinkthing--logo---branding.css" crc="203160188" ref="thinkthing--logo---branding"/>
+    <file name="thinkthing--logo---branding.css" crc="4225705357" ref="thinkthing--logo---branding"/>
     <file name="nomq_thinkthing--logo---branding.css" crc="169653182" ref="thinkthing--logo---branding"/>
-    <file name="index.css" crc="357048074" ref="index"/>
-    <file name="nomq_index.css" crc="3848939784" ref="index"/>
-    <file name="travelplus--webpage.css" crc="287165882" ref="travelplus--webpage"/>
+    <file name="index.css" crc="3917484967" ref="index"/>
+    <file name="nomq_index.css" crc="4170463968" ref="index"/>
+    <file name="travelplus--webpage.css" crc="193195758" ref="travelplus--webpage"/>
     <file name="nomq_travelplus--webpage.css" crc="3947650639" ref="travelplus--webpage"/>
-    <file name="thinkthing--logo---branding---pl.css" crc="312563444" ref="thinkthing--logo---branding---pl"/>
+    <file name="thinkthing--logo---branding---pl.css" crc="4028696090" ref="thinkthing--logo---branding---pl"/>
     <file name="nomq_thinkthing--logo---branding---pl.css" crc="243067957" ref="thinkthing--logo---branding---pl"/>
-    <file name="overis--webpage---pl.css" crc="4004262158" ref="overis--webpage---pl"/>
-    <file name="nomq_overis--webpage---pl.css" crc="374344978" ref="overis--webpage---pl"/>
-    <file name="cape--app-uxui---pl.css" crc="4229434184" ref="cape--app-uxui---pl"/>
+    <file name="overis--webpage---pl.css" crc="3972678257" ref="overis--webpage---pl"/>
+    <file name="nomq_overis--webpage---pl.css" crc="521048246" ref="overis--webpage---pl"/>
+    <file name="cape--app-uxui---pl.css" crc="206290672" ref="cape--app-uxui---pl"/>
     <file name="nomq_cape--app-uxui---pl.css" crc="4050057451" ref="cape--app-uxui---pl"/>
-    <file name="cape--app-uxui.css" crc="16140606" ref="cape--app-uxui"/>
+    <file name="cape--app-uxui.css" crc="4230778199" ref="cape--app-uxui"/>
     <file name="nomq_cape--app-uxui.css" crc="3953449858" ref="cape--app-uxui"/>
-    <file name="eastcoast-boats--logo.css" crc="277731092" ref="eastcoast-boats--logo"/>
+    <file name="eastcoast-boats--logo.css" crc="3885440393" ref="eastcoast-boats--logo"/>
     <file name="nomq_eastcoast-boats--logo.css" crc="4208415584" ref="eastcoast-boats--logo"/>
-    <file name="travelplus--webpage---pl.css" crc="4009492549" ref="travelplus--webpage---pl"/>
+    <file name="travelplus--webpage---pl.css" crc="100149741" ref="travelplus--webpage---pl"/>
     <file name="nomq_travelplus--webpage---pl.css" crc="4076026763" ref="travelplus--webpage---pl"/>
-    <file name="thinkthing--app-uxui.css" crc="3960282047" ref="thinkthing--app-uxui"/>
+    <file name="thinkthing--app-uxui.css" crc="4129465066" ref="thinkthing--app-uxui"/>
     <file name="nomq_thinkthing--app-uxui.css" crc="4245404989" ref="thinkthing--app-uxui"/>
+  </folder>
+  <folder name="fonts">
+    <file name="spacegrotesk-medium.woff" crc="3845516954"/>
+    <file name="spacegrotesk-medium.eot" crc="310197966"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:adrent--webpage:ika--webpage:travelplus--webpage:eastcoast-boats--logo:polish-space-agency--logo:konference--logo---website:overis--webpage:cape--app-uxui:thinkthing--logo---branding:thinkthing--app-uxui:macholl.rockspl:adrent--webpage---pl:ika--webpage---pl:travelplus--webpage---pl:overis--webpage---pl:eastcoast-boats--logo---pl:polish-space-agency--logo---pl:konference--logo---website---pl:cape--app-uxui---pl:thinkthing--app-uxui---pl:thinkthing--logo---branding---pl"/>
@@ -2096,26 +2100,26 @@
       <caption webpage="thinkthing--logo---branding---pl" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4026264302" seo="true" mt="1536617164880" redirect="true"/>
-  <file name="adrent--webpage.html" crc="345435036" seo="true" mt="1536617156574" redirect="true"/>
-  <file name="ika--webpage.html" crc="443175917" seo="true" mt="1536617156574" redirect="true"/>
-  <file name="travelplus--webpage.html" crc="86670213" seo="true" mt="1536617156574" redirect="true"/>
-  <file name="eastcoast-boats--logo.html" crc="3926112356" seo="true" mt="1536617156574" redirect="true"/>
-  <file name="polish-space-agency--logo.html" crc="61396752" seo="true" mt="1536617156574" redirect="true"/>
-  <file name="konference--logo---website.html" crc="355452232" seo="true" mt="1536617156574" redirect="true"/>
-  <file name="overis--webpage.html" crc="4144149407" seo="true" mt="1536617156574" redirect="true"/>
-  <file name="cape--app-uxui.html" crc="82735689" seo="true" mt="1536617156574" redirect="true"/>
-  <file name="thinkthing--logo---branding.html" crc="8147552" seo="true" mt="1536617156574" redirect="true"/>
-  <file name="thinkthing--app-uxui.html" crc="4016848209" seo="true" mt="1536617156574" redirect="true"/>
-  <file name="macholl.rockspl.html" crc="4158148195" seo="true" mt="1536617164880" redirect="true"/>
-  <file name="adrent--webpage---pl.html" crc="3790577494" seo="true" mt="1536617208881" redirect="true"/>
-  <file name="ika--webpage---pl.html" crc="450997790" seo="true" mt="1536617208881" redirect="true"/>
-  <file name="travelplus--webpage---pl.html" crc="4292093369" seo="true" mt="1536617208881" redirect="true"/>
-  <file name="overis--webpage---pl.html" crc="311480220" seo="true" mt="1536617208881" redirect="true"/>
-  <file name="eastcoast-boats--logo---pl.html" crc="245753514" seo="true" mt="1536617208881" redirect="true"/>
-  <file name="polish-space-agency--logo---pl.html" crc="382993496" seo="true" mt="1536617208881" redirect="true"/>
-  <file name="konference--logo---website---pl.html" crc="3865025127" seo="true" mt="1536617208881" redirect="true"/>
-  <file name="cape--app-uxui---pl.html" crc="387138641" seo="true" mt="1536617208881" redirect="true"/>
-  <file name="thinkthing--app-uxui---pl.html" crc="4108346858" seo="true" mt="1536617208881" redirect="true"/>
-  <file name="thinkthing--logo---branding---pl.html" crc="257675614" seo="true" mt="1536617208881" redirect="true"/>
+  <file name="index.html" crc="4227572649" seo="true" mt="1536620811826" redirect="true"/>
+  <file name="adrent--webpage.html" crc="201048336" seo="true" mt="1536620837623" redirect="true"/>
+  <file name="ika--webpage.html" crc="3834537272" seo="true" mt="1536620865704" redirect="true"/>
+  <file name="travelplus--webpage.html" crc="3935241823" seo="true" mt="1536620896033" redirect="true"/>
+  <file name="eastcoast-boats--logo.html" crc="4083324740" seo="true" mt="1536620931855" redirect="true"/>
+  <file name="polish-space-agency--logo.html" crc="4078462362" seo="true" mt="1536620949709" redirect="true"/>
+  <file name="konference--logo---website.html" crc="58769582" seo="true" mt="1536620972502" redirect="true"/>
+  <file name="overis--webpage.html" crc="3926103044" seo="true" mt="1536620911556" redirect="true"/>
+  <file name="cape--app-uxui.html" crc="4113560832" seo="true" mt="1536620979241" redirect="true"/>
+  <file name="thinkthing--logo---branding.html" crc="81229430" seo="true" mt="1536620987958" redirect="true"/>
+  <file name="thinkthing--app-uxui.html" crc="321240035" seo="true" mt="1536620993832" redirect="true"/>
+  <file name="macholl.rockspl.html" crc="3920726047" seo="true" mt="1536620811826" redirect="true"/>
+  <file name="adrent--webpage---pl.html" crc="232800659" seo="true" mt="1536621034142" redirect="true"/>
+  <file name="ika--webpage---pl.html" crc="4223417658" seo="true" mt="1536621042749" redirect="true"/>
+  <file name="travelplus--webpage---pl.html" crc="139169844" seo="true" mt="1536621050691" redirect="true"/>
+  <file name="overis--webpage---pl.html" crc="3959807634" seo="true" mt="1536621057970" redirect="true"/>
+  <file name="eastcoast-boats--logo---pl.html" crc="3779692140" seo="true" mt="1536621063674" redirect="true"/>
+  <file name="polish-space-agency--logo---pl.html" crc="369369245" seo="true" mt="1536621068792" redirect="true"/>
+  <file name="konference--logo---website---pl.html" crc="4099312395" seo="true" mt="1536621074666" redirect="true"/>
+  <file name="cape--app-uxui---pl.html" crc="3759916243" seo="true" mt="1536621080505" redirect="true"/>
+  <file name="thinkthing--app-uxui---pl.html" crc="3916361140" seo="true" mt="1536621106223" redirect="true"/>
+  <file name="thinkthing--logo---branding---pl.html" crc="150844277" seo="true" mt="1536621117989" redirect="true"/>
 </manifest>
